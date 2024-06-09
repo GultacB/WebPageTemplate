@@ -237,6 +237,16 @@ display: grid;
 grid-template-columns: auto auto; 
 }
 
+.melbourne p :hover{
+    color: #e9204f;
+    cursor: pointer;
+}
+
+.Berlin p :hover{
+    color: #e9204f;
+    cursor: pointer;
+}
+
 .footerPart3{
 height: 18%;
 background-color:rgb(0,0,0);
